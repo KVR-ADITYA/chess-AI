@@ -1,4 +1,3 @@
-import tkinter as tk
 import os
 import sys
 from ChessUI import ChessUI
