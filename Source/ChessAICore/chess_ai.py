@@ -4,4 +4,4 @@ import logging
 
 class ChessAIAgent():
     def __init__(self):
-        print("Initializing Chess AI Agent")
+        logging.info("Chess AI Agent Constructor")

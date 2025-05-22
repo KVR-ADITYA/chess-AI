@@ -4,4 +4,4 @@ import logging
 
 class ChessCore:
     def __init__(self):
-        print("Chess Core")
+        logging.info("Chess Core Constructor")
